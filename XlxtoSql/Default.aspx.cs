@@ -95,6 +95,7 @@ namespace XlxtoSql
             }
 
         }
+        //modified code for click
         protected void Button1_Click(object sender, EventArgs e)
         {
             try
